@@ -20,7 +20,7 @@ const controlSampleViewLightBox = function (data) {
   sampleView.renderSampleLightBox(data);
 };
 
-controlLightImgView = function (data) {
+const controlLightImgView = function (data) {
   // console.log(data);
   sampleView.renderSampleLightBox(data);
   // console.log(data);
