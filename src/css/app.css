@@ -97,8 +97,10 @@ body {
   border-radius: 1rem;
   background: #fff;
   box-shadow: 0 2rem 5rem -2rem rgba(29, 32, 38, 0.5);
-  position: absolute;
+  position: fixed;
   right: 11rem;
+  z-index: 800;
+
   /* display: flex;
   
   */

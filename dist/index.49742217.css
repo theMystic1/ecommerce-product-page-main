@@ -87,11 +87,12 @@ body {
 }
 
 .cart {
+  z-index: 800;
   background: #fff;
   border-radius: 1rem;
   width: 36rem;
   height: 25.6rem;
-  position: absolute;
+  position: fixed;
   right: 11rem;
   box-shadow: 0 2rem 5rem -2rem #1d202680;
 }

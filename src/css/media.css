@@ -254,10 +254,6 @@
     padding: 0 6rem;
   }
 
-  .cart {
-    right: -2rem;
-  }
-
   .show_products {
     width: 28rem;
   }
@@ -281,8 +277,14 @@
 
   .cart {
     width: 28rem;
-    right: -4rem;
+    right: 5rem;
+    /* padding: 0.8rem; */
     font-size: 1.4rem;
+  }
+
+  .priced,
+  .its {
+    font-size: 1.2rem;
   }
 
   .btn_checkout {
