@@ -21,7 +21,9 @@ const controlSampleViewLightBox = function (data) {
 };
 
 controlLightImgView = function (data) {
+  // console.log(data);
   sampleView.renderSampleLightBox(data);
+  // console.log(data);
 };
 
 const controlAddToCart = function () {
@@ -44,9 +46,9 @@ const init = function () {
   cartView.addToCart(controlAddToCart);
   cartView.deleteCart(controlDeleteCart);
   sampleView.handleSampleView(controlSampleView);
+  sampleView.handleImg(controlLightImgView);
   sampleView.handleSmpleLightBox(controlSampleViewLightBox);
   sampleView.handleRemoveLightBox();
-  sampleView.handleImg(controlLightImgView);
   navView.handlerOpenNav(controlNav);
   // hovers
   loadview.handleHover();
