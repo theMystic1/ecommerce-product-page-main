@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font-family: "Kumbh Sans", sans-serif;
+  font-family: 'Kumbh Sans', sans-serif;
 }
 
 .nav {
@@ -43,6 +43,13 @@ body {
 
 .ul li {
   list-style: none;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+}
+
+.border-shit {
+  border-bottom: 0.3rem solid #ff7e1b;
 }
 
 .ul li a {

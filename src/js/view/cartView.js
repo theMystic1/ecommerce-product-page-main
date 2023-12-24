@@ -1,28 +1,28 @@
-import icondel from "../../images/icon-delete.svg";
-import imageProd1 from "../../images/image-product-1-thumbnail.jpg";
+import icondel from '../../images/icon-delete.svg';
+import imageProd1 from '../../images/image-product-1-thumbnail.jpg';
 
 class CartView {
-  _nav = document.querySelector(".nav");
-  _parentEl = document.querySelector(".cart--details");
-  _valueBtn = document.querySelector(".cart_inc_dec");
+  _nav = document.querySelector('.nav');
+  _parentEl = document.querySelector('.cart--details');
+  _valueBtn = document.querySelector('.cart_inc_dec');
   _cartQuantity = 0;
   _markup;
 
   handleEventCart(handler) {
-    this._nav.addEventListener("click", function (e) {
-      const cart = e.target.closest(".cart_img");
+    this._nav.addEventListener('click', function (e) {
+      const cart = e.target.closest('.cart_img');
       if (!cart) return;
       handler();
     });
   }
 
   getCartData() {
-    return JSON.parse(localStorage.getItem("cart")) || [];
+    return JSON.parse(localStorage.getItem('cart')) || [];
   }
 
   loadLocalData(handler) {
     // Add an event listener to the window.load event
-    window.addEventListener("load", () => {
+    window.addEventListener('load', () => {
       // Retrieve cart data from localStorage
       const cartData = this.getCartData() || this.renderEmptyCartMsg();
       if (!cartData);
@@ -35,13 +35,13 @@ class CartView {
   handleIncValue(handler) {
     let valueCount = 0;
     const minValue = 0;
-    this._valueBtn.addEventListener("click", (e) => {
-      const btn = e.target.closest(".btn_inc_dec");
-      const value = document.querySelector(".value");
+    this._valueBtn.addEventListener('click', e => {
+      const btn = e.target.closest('.btn_inc_dec');
+      const value = document.querySelector('.value');
 
       if (!btn) return;
 
-      if (btn.classList.contains("inc")) {
+      if (btn.classList.contains('inc')) {
         valueCount++;
         value.innerHTML = valueCount;
         this._cartQuantity = valueCount;
@@ -53,7 +53,7 @@ class CartView {
         // handler(this._cartQuantity);
       }
 
-      if (btn.classList.contains("dec")) {
+      if (btn.classList.contains('dec')) {
         if (valueCount === minValue) return;
 
         valueCount--;
@@ -70,14 +70,14 @@ class CartView {
   }
 
   updateCartData() {
-    const productTitle = "Fall Limited Edition Sneakers";
+    const productTitle = 'Fall Limited Edition Sneakers';
 
     // Retrieve cart data from localStorage
-    const cartData = JSON.parse(localStorage.getItem("cart")) || [];
+    const cartData = JSON.parse(localStorage.getItem('cart')) || [];
 
     // Find the product in cartData (assuming a unique identifier, e.g., title)
     const productInCartIndex = cartData.findIndex(
-      (item) => item.title === productTitle
+      item => item.title === productTitle
     );
 
     // Update the quantity in cartData or add a new product if not found
@@ -96,14 +96,14 @@ class CartView {
     // if (productInCartIndex === 0) return;
 
     // Save the updated cart data to localStorage
-    localStorage.setItem("cart", JSON.stringify(cartData));
+    localStorage.setItem('cart', JSON.stringify(cartData));
   }
 
   renderCart(cartData) {
     const prodValue = 125.0;
 
     // Use the passed cartData or retrieve it from localStorage
-    cartData = cartData || JSON.parse(localStorage.getItem("cart")) || [];
+    cartData = cartData || JSON.parse(localStorage.getItem('cart')) || [];
 
     // Calculate total quantity and total price from cart data
     const totalQuantity = cartData.reduce(
@@ -140,27 +140,27 @@ class CartView {
   }
 
   addToCart(handler) {
-    document.querySelector(".cart_btn").addEventListener("click", () => {
+    document.querySelector('.cart_btn').addEventListener('click', () => {
       // document.querySelector(".value").innerHTML = 0;
       handler();
     });
   }
 
   deleteCart(handler) {
-    this._parentEl.addEventListener("click", (e) => {
-      const delBtn = e.target.closest(".delete");
+    this._parentEl.addEventListener('click', e => {
+      const delBtn = e.target.closest('.delete');
       if (!delBtn) return;
       e.preventDefault(); // Prevent default behavior
 
       // Retrieve the product title or unique identifier from the HTML structure
-      const productTitle = "Fall Limited Edition Sneakers";
+      const productTitle = 'Fall Limited Edition Sneakers';
 
       // Retrieve cart data from localStorage
-      let cartData = JSON.parse(localStorage.getItem("cart")) || [];
+      let cartData = JSON.parse(localStorage.getItem('cart')) || [];
 
       // Find the index of the product in cartData
       const productIndex = cartData.findIndex(
-        (item) => item.title === productTitle
+        item => item.title === productTitle
       );
 
       // Remove the product from cartData if found
@@ -168,10 +168,10 @@ class CartView {
         cartData.splice(productIndex, 1);
 
         // Update localStorage with the modified cartData
-        localStorage.setItem("cart", JSON.stringify(cartData));
+        localStorage.setItem('cart', JSON.stringify(cartData));
 
         // Render the cart with the updated data
-        document.querySelector(".cart--details").innerHTML = "";
+        document.querySelector('.cart--details').innerHTML = '';
         this.renderCart(cartData);
         // console.log(cartData);
       }
@@ -180,7 +180,7 @@ class CartView {
   }
 
   toggleCart() {
-    document.querySelector(".cart").classList.toggle("hidden");
+    document.querySelector('.cart').classList.toggle('hidden');
   }
 
   renderEmptyCartMsg() {
@@ -190,7 +190,7 @@ class CartView {
       </div>
     `;
 
-    this._parentEl.insertAdjacentHTML("beforeend", this._markup);
+    this._parentEl.insertAdjacentHTML('beforeend', this._markup);
   }
 }
 

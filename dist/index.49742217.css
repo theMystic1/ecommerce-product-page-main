@@ -41,7 +41,14 @@ body {
 }
 
 .ul li {
+  align-items: center;
+  height: 8rem;
   list-style: none;
+  display: flex;
+}
+
+.border-shit {
+  border-bottom: .3rem solid #ff7e1b;
 }
 
 .ul li a {

@@ -1,7 +1,7 @@
-import cartView from "./view/cartView.js";
-import sampleView from "./view/sampleView.js";
-import navView from "./view/navView.js";
-import loadview from "./view/loadview.js";
+import cartView from './view/cartView.js';
+import sampleView from './view/sampleView.js';
+import navView from './view/navView.js';
+import loadview from './view/loadview.js';
 const controleCartView = function () {
   cartView.toggleCart();
 };
@@ -53,6 +53,9 @@ const init = function () {
   loadview.handleMouseOut();
   loadview.handleHoverCancBtn();
   loadview.handleMouseOutlose();
+  // active
+
+  loadview.activeEvent();
 };
 
 init();

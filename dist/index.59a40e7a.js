@@ -628,6 +628,8 @@ const init = function() {
     (0, _loadviewJsDefault.default).handleMouseOut();
     (0, _loadviewJsDefault.default).handleHoverCancBtn();
     (0, _loadviewJsDefault.default).handleMouseOutlose();
+    // active
+    (0, _loadviewJsDefault.default).activeEvent();
 };
 init();
 
@@ -1138,6 +1140,14 @@ class HoverView {
             this._parentEl.querySelector(".hover").classList.toggle("hidden");
             this._parentEl.querySelector(".active").classList.toggle("hidden");
             btn.style.transition = "all 600ms";
+        });
+    }
+    activeEvent() {
+        document.querySelector(".ul").addEventListener("click", (e)=>{
+            const list = e.target.closest(".list");
+            if (!list) return;
+            document.querySelectorAll(".list").forEach((list)=>list.classList.remove("border-shit"));
+            list.classList.add("border-shit");
         });
     }
 }
