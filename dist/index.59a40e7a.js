@@ -633,7 +633,7 @@ const init = function() {
 };
 init();
 
-},{"./view/cartView.js":"glzQp","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./view/sampleView.js":"d8bHw","./view/loadview.js":"lnUwE","./view/navView.js":"8Jmcp"}],"glzQp":[function(require,module,exports) {
+},{"./view/cartView.js":"glzQp","./view/sampleView.js":"d8bHw","./view/navView.js":"8Jmcp","./view/loadview.js":"lnUwE","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"glzQp":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _iconDeleteSvg = require("../../images/icon-delete.svg");
@@ -1057,16 +1057,25 @@ class SampleView {
 }
 exports.default = new SampleView();
 
-},{"../../images/icon-close.svg":"c10Nq","../../images/icon-previous.svg":"c8LXz","../../images/icon-next.svg":"fnnRD","../../images/image-product-1.jpg":"5IhlW","../../images/image-product-2.jpg":"tldVd","../../images/image-product-3.jpg":"hWdlO","../../images/image-product-4.jpg":"a3K30","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","../../images/icon-close-copy.svg":"2HhE1","../../images/icon-previous-copy.svg":"72Prf","../../images/icon-next-copy.svg":"dmO1W"}],"c10Nq":[function(require,module,exports) {
+},{"../../images/icon-close.svg":"c10Nq","../../images/icon-close-copy.svg":"2HhE1","../../images/icon-previous.svg":"c8LXz","../../images/icon-next.svg":"fnnRD","../../images/icon-previous-copy.svg":"72Prf","../../images/icon-next-copy.svg":"dmO1W","../../images/image-product-1.jpg":"5IhlW","../../images/image-product-2.jpg":"tldVd","../../images/image-product-3.jpg":"hWdlO","../../images/image-product-4.jpg":"a3K30","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"c10Nq":[function(require,module,exports) {
 module.exports = require("d1cd0bc0c2adbb48").getBundleURL("ixJtV") + "icon-close.cac3d951.svg" + "?" + Date.now();
 
-},{"d1cd0bc0c2adbb48":"lgJ39"}],"c8LXz":[function(require,module,exports) {
+},{"d1cd0bc0c2adbb48":"lgJ39"}],"2HhE1":[function(require,module,exports) {
+module.exports = require("9ae59a9aaf82001e").getBundleURL("ixJtV") + "icon-close-copy.c57d7cd5.svg" + "?" + Date.now();
+
+},{"9ae59a9aaf82001e":"lgJ39"}],"c8LXz":[function(require,module,exports) {
 module.exports = require("2e84fb4af360f2ad").getBundleURL("ixJtV") + "icon-previous.073fbd70.svg" + "?" + Date.now();
 
 },{"2e84fb4af360f2ad":"lgJ39"}],"fnnRD":[function(require,module,exports) {
 module.exports = require("4651fb9f3804c353").getBundleURL("ixJtV") + "icon-next.5240f3bb.svg" + "?" + Date.now();
 
-},{"4651fb9f3804c353":"lgJ39"}],"5IhlW":[function(require,module,exports) {
+},{"4651fb9f3804c353":"lgJ39"}],"72Prf":[function(require,module,exports) {
+module.exports = require("8d6191c74bd9fb8").getBundleURL("ixJtV") + "icon-previous-copy.9a1f6328.svg" + "?" + Date.now();
+
+},{"8d6191c74bd9fb8":"lgJ39"}],"dmO1W":[function(require,module,exports) {
+module.exports = require("87819400c5eb71c1").getBundleURL("ixJtV") + "icon-next-copy.2aad4151.svg" + "?" + Date.now();
+
+},{"87819400c5eb71c1":"lgJ39"}],"5IhlW":[function(require,module,exports) {
 module.exports = require("a479cbd004e300cd").getBundleURL("ixJtV") + "image-product-1.5f963ded.jpg" + "?" + Date.now();
 
 },{"a479cbd004e300cd":"lgJ39"}],"tldVd":[function(require,module,exports) {
@@ -1078,16 +1087,28 @@ module.exports = require("1b8f3e1365c2ffeb").getBundleURL("ixJtV") + "image-prod
 },{"1b8f3e1365c2ffeb":"lgJ39"}],"a3K30":[function(require,module,exports) {
 module.exports = require("fd5407b2e6bc86bf").getBundleURL("ixJtV") + "image-product-4.20ac56af.jpg" + "?" + Date.now();
 
-},{"fd5407b2e6bc86bf":"lgJ39"}],"2HhE1":[function(require,module,exports) {
-module.exports = require("9ae59a9aaf82001e").getBundleURL("ixJtV") + "icon-close-copy.c57d7cd5.svg" + "?" + Date.now();
+},{"fd5407b2e6bc86bf":"lgJ39"}],"8Jmcp":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+class NavView {
+    _nav = document.querySelector(".ul");
+    _overLay = document.querySelector(".overlay");
+    _menuBtn = document.querySelector(".menu--icon");
+    _menuOpn = document.querySelector(".menu");
+    _menuClose = document.querySelector(".close");
+    openNav() {
+        this._nav.classList.toggle("open-nav");
+        this._overLay.classList.toggle("hidden");
+        this._menuClose.classList.toggle("hidden");
+        this._menuOpn.classList.toggle("hidden");
+    }
+    handlerOpenNav(handler) {
+        this._menuBtn.addEventListener("click", handler);
+    }
+}
+exports.default = new NavView();
 
-},{"9ae59a9aaf82001e":"lgJ39"}],"72Prf":[function(require,module,exports) {
-module.exports = require("8d6191c74bd9fb8").getBundleURL("ixJtV") + "icon-previous-copy.9a1f6328.svg" + "?" + Date.now();
-
-},{"8d6191c74bd9fb8":"lgJ39"}],"dmO1W":[function(require,module,exports) {
-module.exports = require("87819400c5eb71c1").getBundleURL("ixJtV") + "icon-next-copy.2aad4151.svg" + "?" + Date.now();
-
-},{"87819400c5eb71c1":"lgJ39"}],"lnUwE":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"lnUwE":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 class HoverView {
@@ -1152,27 +1173,6 @@ class HoverView {
     }
 }
 exports.default = new HoverView();
-
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"8Jmcp":[function(require,module,exports) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-class NavView {
-    _nav = document.querySelector(".ul");
-    _overLay = document.querySelector(".overlay");
-    _menuBtn = document.querySelector(".menu--icon");
-    _menuOpn = document.querySelector(".menu");
-    _menuClose = document.querySelector(".close");
-    openNav() {
-        this._nav.classList.toggle("open-nav");
-        this._overLay.classList.toggle("hidden");
-        this._menuClose.classList.toggle("hidden");
-        this._menuOpn.classList.toggle("hidden");
-    }
-    handlerOpenNav(handler) {
-        this._menuBtn.addEventListener("click", handler);
-    }
-}
-exports.default = new NavView();
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["gl6Mp","8lRBv"], "8lRBv", "parcelRequirebd42")
 

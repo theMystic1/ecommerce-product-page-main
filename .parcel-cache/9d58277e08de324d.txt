@@ -1,4 +1,4 @@
-5946
+5942
 118C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\package.json133476935153294562 0
 177C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133476930541458620 0
 153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\svgo\plugins\convertShapeToPath.js133476930560775282 0
@@ -11,11 +11,18 @@
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\domutils\readme.md133476930552477242 0
 150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\regions\SZ.js133476930587398619 0
 151C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\scripts\ast_grep.js133476930572286585 0
-116C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\.gitignore133478809719333676 0
+116C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\.gitignore133478812820599759 0
 127C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\svgo\lib133476930556254103 1
 169C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133476930567079461 0
-110C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist133478808475719974 1
-124C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\README-template.md133475792702810430 0
+110C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist133478836895595393 1
+158C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\sortAttributes.cjs133476930556608862 0
+129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\cartView.js133478821608103493 0
+150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-select\lib\esm\package.json133476930555404049 0
+170C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133476930574211720 0
+153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\minifyCss.cjs133476930552138343 0
+143C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\postcss-value-parser\lib133476930547240503 1
+162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133476930555367931 0
+117C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\.prettierrc133462994566940209 0
 151C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\.bin\download-lmdb-prebuilds.ps1133476930594760792 0
 143C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\src\compression.cpp133476930565578003 0
 130C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\ansi-styles133476930543275012 1
@@ -30,7 +37,7 @@
 180C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\features\mdn-css-backdrop-pseudo-element.js133476930582109917 0
 176C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\index.js133476930543159936 0
 136C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\tslib\LICENSE.txt133476930551020603 0
-116C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\index.html133478741018986875 0
+116C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\index.html133478819231746704 0
 166C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\features\input-placeholder.js133476930580289957 0
 130C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\bin133476930550436020 1
 171C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133476930553357959 0
@@ -59,6 +66,7 @@
 140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\lib\dumper.js133476930546864784 0
 118C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules133476930631210624 1
 188C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-xml.js133476930546864784 0
+124C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\README-template.md133475792702810430 0
 145C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\graph\package.json133476930554283063 0
 164C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133476930547131633 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\chrome-trace-event133476930545981079 1
@@ -103,7 +111,7 @@
 112C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js133476935359145373 1
 154C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\lib\replace\property\border.js133476930562530512 0
 142C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\dist\js-yaml.js133476930552138343 0
-119C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\app.js133478802317534942 0
+119C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\app.js133478822373685535 0
 153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\type-fest\source\partial-deep.d.ts133476930555683739 0
 138C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\stable\package.json133476930538590190 0
 150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\regions\HT.js133476930579142768 0
@@ -112,7 +120,7 @@
 150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\lib\syntax\node\CDO.js133476930570093826 0
 154C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\svgo\plugins\cleanupListOfValues.js133476930559477076 0
 195C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133476930594828815 0
-121C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\model.js133477398516314784 0
+121C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\model.js133478821738391097 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\fs\LICENSE133476930539007252 0
 151C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-what\lib\commonjs\types.d.ts133476930555516823 0
 139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\electron-to-chromium133476930551613445 1
@@ -121,7 +129,7 @@
 163C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\_\_read_only_error\package.json133476930576307880 0
 146C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\images\image-product-2-thumbnail.jpg133475792710766750 0
 161C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\esm\_await_async_generator.js133476930567165371 0
-131C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\sampleView.js133478655717534585 0
+131C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\sampleView.js133478821672286318 0
 149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\dependencies\lmdb-data-v1133476930538877270 1
 139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\resolve-from\license133476930541294298 0
 153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\codeframe\src\codeframe.js133476930555933087 0
@@ -131,9 +139,6 @@
 197C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Identifier.js133476930562582187 0
 135C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\SECURITY.md133476930570228846 0
 129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\parse-json133476930542041650 1
-158C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\sortAttributes.cjs133476930556608862 0
-129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\cartView.js133478679074267123 0
-150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-select\lib\esm\package.json133476930555404049 0
 193C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\String.js133476930568390376 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\.package-lock.json133476930631246467 0
 143C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\react-refresh\runtime.js133476930546442696 0
@@ -149,7 +154,7 @@
 148C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@lezer\lr\dist\constants.d.ts133476930548064697 0
 153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\msgpackr\dist\index-no-eval.min.js133476930548656778 0
 208C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133476930567398870 0
-129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\loadview.js133478662432405718 0
+129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\loadview.js133478821565764299 0
 150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\ordered-binary\rollup.config.js133476930544491695 0
 149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\semver\internal\identifiers.js133476930552138343 0
 159C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\utils\src\dependency-location.js133476930552901557 0
@@ -170,7 +175,7 @@
 161C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-select\lib\pseudo-selectors\index.d.ts133476930564907664 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\cache\src\IDBCache.browser.js133476930546276339 0
 150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\lib\syntax\node\CDC.js133476930570061551 0
-128C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\navView.js133478804698497006 0
+128C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\js\view\navView.js133478821646430683 0
 144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\semver\functions\clean.js133476930541578902 0
 151C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\semver\internal\parse-options.js133476930556937272 0
 136C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\images\image-product-3.jpg133475792712068300 0
@@ -281,7 +286,7 @@
 165C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_class_private_method_get.cjs133476930556544770 0
 145C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\mdn-data\css\at-rules.json133476930545706310 0
 140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-css133476930542793372 1
-123C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\css\media.css133478808475247039 0
+123C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\css\media.css133478829199357231 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\picocolors\LICENSE133476930538590190 0
 181C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\mergePaths.js133476930557358153 0
 161C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\utility-types\dist\aliases-and-guards.d.ts133476930551830866 0
@@ -306,7 +311,7 @@
 192C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\has.js133476930562434654 0
 165C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\features\getcomputedstyle.js133476930578369160 0
 161C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\css-tree\dist\version.js133476930575184622 0
-121C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\css\app.css133478805241581995 0
+121C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\src\css\app.css133478829309055429 0
 166C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\mdn-data\css\definitions.json133476930549083249 0
 134C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\caching.js133476930568972339 0
 154C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\features\webxr.js133476930589508828 0
@@ -397,8 +402,6 @@
 193C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\TokenStream.js133476930568826950 0
 131C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\read.js133476930569442199 0
 142C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\types\package.json133476930541370492 0
-148C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\profiler\package.json133476930549582224 0
-153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\node\Block.cjs133476930548270849 0
 123C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso133476930566864750 1
 147C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\logger\src\Logger.js133476930541908628 0
 128C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\path-type133476930543259865 1
@@ -464,7 +467,7 @@
 199C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-child.js133476930566026693 0
 146C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\mdn-data\css\selectors.json133476930554090492 0
 191C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133476930594828815 0
-139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-4.20ac56af.jpg133478805244189697 0
+139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-4.20ac56af.jpg133478836895312562 0
 164C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-select\node_modules\domutils\package.json133476930552901557 0
 129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\fill-range133476930542021865 1
 127C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\get-port133476930543445072 1
@@ -517,7 +520,7 @@
 186C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\procedure.js133476930548093891 0
 192C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.schema.json133476930555279210 0
 136C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lru-cache\LICENSE133476930538590190 0
-133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.80f53c27.css.map133478808475719974 0
+133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.80f53c27.css.map133478836895548591 0
 163C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\esm\_class_private_field_set.js133476930568474756 0
 154C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\svgo\plugins\removeEditorsNSData.js133476930563145797 0
 165C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\features\view-transitions.js133476930588891744 0
@@ -616,7 +619,7 @@
 169C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\posthtml\node_modules\posthtml-parser\package.json133476930544071923 0
 144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\dotenv-expand\lib\main.js133476930545122937 0
 152C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\svgo\plugins\removeHiddenElems.js133476930563607623 0
-149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-2-thumbnail.c1078cca.jpg133478805243962339 0
+149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-2-thumbnail.c1078cca.jpg133478836895169621 0
 129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\source-map133476930552193493 1
 132C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\utility-types133476930551203616 1
 154C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\regions\alt-an.js133476930552588644 0
@@ -946,7 +949,7 @@
 146C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\type-fest\source\basic.d.ts133476930546241221 0
 127C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\src133476930567361260 1
 140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\chalk\source\index.js133476930540709770 0
-132C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js.map133478805244808664 0
+132C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js.map133478836895548591 0
 148C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\lib\syntax\create.js133476930570732926 0
 150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\regions\AW.js133476930560913844 0
 132C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\tslib\modules133476930548737124 1
@@ -1049,9 +1052,6 @@
 145C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\utils\src\index.js133476930561215955 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\source-map\lib\source-map-consumer.js133476930548817534 0
 146C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\to-regex-range\package.json133476930538709864 0
-143C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\lib\type\bool.js133476930541786814 0
-162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\lib\syntax\node\DeclarationList.js133476930572047022 0
-144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\is-arrayish\.editorconfig133476930545770925 0
 139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\tslib\tslib.es6.html133476930538780028 0
 141C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\is-arrayish\.npmignore133476930540075420 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\tslib\tslib.es6.js133476930543013098 0
@@ -1095,7 +1095,7 @@
 135C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\timsort\index.js133476930542366229 0
 172C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\node_modules\node-addon-api\package-support.json133476930552546572 0
 133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\_133476930577329362 1
-149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-1-thumbnail.cad5b7f9.jpg133478805243962339 0
+149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-1-thumbnail.cad5b7f9.jpg133478836894784440 0
 144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\transformer-image133476930546834580 1
 152C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\semver\functions\compare-loose.js133476930546781911 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\timsort\LICENSE.md133476930543563455 0
@@ -1168,7 +1168,7 @@
 146C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\utils\src\stream.js133476930564185697 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\src\windows.c133476930564787788 0
 154C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\regions\alt-sa.js133476930554616703 0
-133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.49742217.css.map133478805244808664 0
+133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.49742217.css.map133478836895548591 0
 158C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\removeComments.mjs133476930566609784 0
 151C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\svgo\plugins\convertTransform.js133476930561198260 0
 175C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\css-tree\cjs\parser\parse-selector.cjs133476930565578003 0
@@ -1613,7 +1613,7 @@
 176C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\css-tree\lib\syntax\config\generator.js133476930572059421 0
 161C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\posthtml-parser\dist\location-tracker.d.ts133476930547577360 0
 145C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\lib\type\binary.js133476930540858371 0
-139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-1.5f963ded.jpg133478805244159300 0
+139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-1.5f963ded.jpg133478836895284826 0
 162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133476930543293047 0
 159C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\posthtml-parser\dist\location-tracker.js133476930542631471 0
 164C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133476930540036414 0
@@ -1656,9 +1656,6 @@
 163C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\css-tree\lib\utils\List.js133476930573341872 0
 141C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\picomatch\CHANGELOG.md133476930547930514 0
 140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\posthtml\lib\index.js133476930541578902 0
-170C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133476930574211720 0
-153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\minifyCss.cjs133476930552138343 0
-143C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\postcss-value-parser\lib133476930547240503 1
 172C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist133476930559078516 1
 176C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\csso\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133476930540929279 0
 141C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\escalade\sync\index.js133476930541708337 0
@@ -1744,7 +1741,7 @@
 152C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlparser2\lib\WritableStream.js133476930545785750 0
 136C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\parcel\src\cli.js133476930544943803 0
 152C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\cosmiconfig\dist\loaders.d.ts.map133476930552251543 0
-149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-4-thumbnail.5287685c.jpg133478805243962339 0
+149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-4-thumbnail.5287685c.jpg133478836895169621 0
 199C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json133476930547549631 0
 172C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-select\node_modules\domhandler\lib\esm\index.d.ts133476930550520927 0
 136C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\parcel\lib\cli.js133476930543445072 0
@@ -1894,7 +1891,7 @@
 144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\domutils\lib\helpers.d.ts133476930553121454 0
 186C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\README.md133476930545531615 0
 193C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133476930543740517 0
-138C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-next-copy.2aad4151.svg133478805243962339 0
+138C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-next-copy.2aad4151.svg133478836894728523 0
 196C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133476930566191147 0
 191C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133476930543192057 0
 170C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133476930559612529 0
@@ -2255,6 +2252,9 @@
 153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\core\test\fixtures\plugins133476930566528587 1
 184C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\index.js133476930558320695 0
 135C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\lib\type133476930557052969 1
+143C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\lib\type\bool.js133476930541786814 0
+162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\lib\syntax\node\DeclarationList.js133476930572047022 0
+144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\is-arrayish\.editorconfig133476930545770925 0
 144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\lib\type\float.js133476930548737124 0
 142C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\js-yaml\lib\type\int.js133476930549653949 0
 181C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\Number.js133476930559365555 0
@@ -2430,11 +2430,10 @@
 162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\features\css-clip-path.js133476930569776697 0
 165C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\removeEmptyAttributes.mjs133476930566694771 0
 146C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-select\lib\types.js.map133476930563376011 0
-162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\removeOptionalTags.cjs133476930555367931 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\transformer-html\package.json133476930547152792 0
 153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\lib\syntax\scope\value.js133476930575515795 0
 141C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\domhandler\lib\node.js133476930541769675 0
-137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-previous.073fbd70.svg133478805243962339 0
+137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-previous.073fbd70.svg133478836895051955 0
 162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\htmlnano\lib\modules\removeOptionalTags.mjs133476930566746860 0
 172C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133476930572059421 0
 164C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_tagged_template_literal.cjs133476930564185697 0
@@ -2532,7 +2531,7 @@
 182C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133476930558199802 0
 142C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\fill-range\package.json133476930538709864 0
 148C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\escape-string-regexp\index.js133476930540036414 0
-135C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-delete.c9dd7024.svg133478805243962339 0
+135C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-delete.c9dd7024.svg133478836894728523 0
 147C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\escape-string-regexp\license133476930541228649 0
 158C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\core\lib\ParcelConfig.schema.js133476930568184955 0
 185C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\mergePaths.js133476930557277984 0
@@ -3333,13 +3332,15 @@
 147C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\function133476930569216442 1
 148C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\index.cjs133476930563430257 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\node\Operator.cjs133476930566171037 0
-134C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-close.cac3d951.svg133478805243962339 0
+134C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-close.cac3d951.svg133478836895051955 0
 144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\scope133476930569163410 1
 146C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\runtime-browser-hmr133476930547321204 1
 157C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\scope\selector.cjs133476930567664416 0
 185C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\preset-default.js133476930559686448 0
 155C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133476930563607623 0
 165C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133476930547690338 0
+148C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\profiler\package.json133476930549582224 0
+153C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\node\Block.cjs133476930548270849 0
 195C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\atrule\keyframes.js133476930559103515 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\node\Brackets.cjs133476930548704994 0
 151C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\css-tree\cjs\syntax\node\CDO.cjs133476930549653949 0
@@ -4603,7 +4604,7 @@
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\src\_new_arrow_check.mjs133476930578870105 0
 160C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133476930578921058 0
 140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\packager-html133476930543134906 1
-128C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js133478805243962339 0
+128C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js133478836895125390 0
 137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\core\index.js133476930541786814 0
 166C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\src\_object_without_properties.mjs133476930579021530 0
 172C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\src\_object_without_properties_loose.mjs133476930579003341 0
@@ -4682,8 +4683,8 @@
 169C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs133476930559788984 0
 205C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133476930565396546 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_define_property.cjs133476930559904508 0
-157C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133476930560478392 0
 162C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\utils\test\input\config\config.json133476930564892427 0
+157C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133476930560478392 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133476930562582187 0
 160C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@swc\helpers\cjs\_non_iterable_spread.cjs133476930562777934 0
 158C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\node-resolver-core\lib\index.js133476930543845544 0
@@ -5042,7 +5043,6 @@
 159C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\reporter-cli\src\bundleReport.js133476930540709770 0
 158C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\reporter-cli\src\CLIReporter.js133476930547178330 0
 152C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\reporter-cli\src\emoji.js133476930548455217 0
-140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js.map.16588.p133477455491247060 0
 188C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic.js133476930562319007 0
 156C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\reporter-cli\src\logLevels.js133476930548944795 0
 139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\profiler\lib133476930548525536 1
@@ -5445,7 +5445,7 @@
 181C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\css.json133476930548371848 0
 181C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\l10n\index.js133476930544659586 0
 192C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\at-rules.schema.json133476930546466469 0
-121C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.html133478802638889277 0
+121C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.html133478836894752013 0
 188C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\definitions.json133476930548817534 0
 180C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\index.js133476930541935364 0
 187C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.json133476930552941674 0
@@ -5546,7 +5546,7 @@
 192C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\index.js133476930563724412 0
 199C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaFeature.js133476930565234347 0
 197C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaQuery.js133476930565314841 0
-142C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-previous-copy.9a1f6328.svg133478805243962339 0
+142C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-previous-copy.9a1f6328.svg133478836895051955 0
 201C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133476930565511169 0
 190C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Nth.js133476930566316098 0
 193C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Number.js133476930566609784 0
@@ -5560,7 +5560,7 @@
 199C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\TypeSelector.js133476930568972339 0
 199C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133476930569037691 0
 190C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Url.js133476930569073755 0
-134C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-minus.da9290f9.svg133478805243962339 0
+134C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-minus.da9290f9.svg133478836894728523 0
 197C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133476930569367163 0
 201C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\function\expression.js133476930561067335 0
 194C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\lexer.js133476930564451531 0
@@ -5921,25 +5921,21 @@
 132C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\.bin\svgo.cmd133476930594777088 0
 132C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\.bin\svgo.ps1133476930594777088 0
 150C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\node_modules\.bin\update-browserslist-db.cmd133476930594777088 0
-137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\favicon-32x32.3a4ddde5.png133478805243962339 0
-138C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-cart-copy.122c9e26.svg133478805243962339 0
-133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-cart.1394e5a2.svg133478805243962339 0
-144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-close-copy-copy.9ef5bdcf.svg133478805243962339 0
-139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-close-copy.c57d7cd5.svg133478805243962339 0
-133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-menu.2cbbe279.svg133478805243962339 0
-133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-next.5240f3bb.svg133478805243962339 0
-133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-plus.05cc6b7f.svg133478805243962339 0
-136C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-avatar.3bdd5e1c.png133478805243962339 0
-139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-2.6c550b84.jpg133478805244189697 0
-149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-3-thumbnail.13b1e1c1.jpg133478805243962339 0
-139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-3.ee366c07.jpg133478805244339794 0
-129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.49742217.css133478805243962339 0
-140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.49742217.css.map.460.3d133476949410563945 0
-141C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js.map.13956.2q133477807910864782 0
-141C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js.map.14088.1l133477524311764393 0
-140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.59a40e7a.js.map.7228.11133477404456410457 0
-129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.80f53c27.css133478808475563695 0
-128C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\logo.cd13699a.svg133478805243962339 0
+137C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\favicon-32x32.3a4ddde5.png133478836895169621 0
+138C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-cart-copy.122c9e26.svg133478836894728523 0
+133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-cart.1394e5a2.svg133478836895051955 0
+144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-close-copy-copy.9ef5bdcf.svg133478836895051955 0
+139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-close-copy.c57d7cd5.svg133478836894728523 0
+133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-menu.2cbbe279.svg133478836894347142 0
+133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-next.5240f3bb.svg133478836894728523 0
+133C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\icon-plus.05cc6b7f.svg133478836895051955 0
+136C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-avatar.3bdd5e1c.png133478836894784440 0
+139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-2.6c550b84.jpg133478836895312562 0
+149C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-3-thumbnail.13b1e1c1.jpg133478836894784440 0
+139C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\image-product-3.ee366c07.jpg133478836895051955 0
+129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.49742217.css133478836895105265 0
+129C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\index.80f53c27.css133478836894752013 0
+128C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\dist\logo.cd13699a.svg133478836894728523 0
 144C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\design\active-states-basket-filled.jpg133475792704226792 0
 140C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\design\desktop-design-lightbox.jpg133475792704861012 0
 131C:\Users\JASPER\Desktop\front-end-mentor-projects\ecommerce-product-page-main\ecommerce-product-page-main\design\desktop-design.jpg133475792705018630 0
